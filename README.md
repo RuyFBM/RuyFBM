@@ -3,7 +3,7 @@
 - Hoje estou estudando HTML, CSS e JS. 
 - Busco trabalho na área de front-end
 
-- 📫 Contate-me no email: ruyfbm@yahoo.com.br ou pelo instagram: Ruyfbm1  
+- 📫 Contate-me no email: ruyfbm@yahoo.com.br ou pelo instagram: @ruyfbm1  
 
 
 <div align="center">
