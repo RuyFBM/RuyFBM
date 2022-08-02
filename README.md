@@ -1,6 +1,6 @@
 ### Oi, eu sou o Ruy Monard  
 
-- Hoje estou estudando HTML, CSS e JS. 
+- Hoje estudo HTML, CSS, JAVASCRIPT, NODE, GIT e REACT. 
 - Busco trabalho na área de front-end
 
 - Contate-me por:
