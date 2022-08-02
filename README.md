@@ -1,9 +1,12 @@
-### Oi, eu sou o RuyFBM  
+### Oi, eu sou o Ruy Monard  
 
 - Hoje estou estudando HTML, CSS e JS. 
 - Busco trabalho na área de front-end
 
-- 📫 Contate-me no email: ruyfbm@yahoo.com.br ou pelo instagram: @ruyfbm1  
+- Contate-me por:
+  - email: ruyfbm.dev@gmail.com  
+  - Linkedin: https://www.linkedin.com/in/ruy-fonte-boa-monard/
+  - Instagram: @ruyfbm1  
 
 
 <div align="center">
