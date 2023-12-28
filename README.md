@@ -1,7 +1,6 @@
-### Oi, eu sou o Ruy Monard  
+### Ola, Meu nome é Ruy Monard  
 
-- Hoje estudo HTML, CSS, JAVASCRIPT, NODE, GIT e REACT. 
-- Busco trabalho na área de front-end
+A mais de um ano atuo como Desenvolvedor Frontend, responsável pelo desenvolvimento de lojas virtuais (Nuvemshop e Vnda) e suporte ao cliente. Profissional com facilidade de aprendizagem e adaptação a mudanças, possuo experiência em gestão de pessoas e capacidade de trabalhar sob pressão. Gosto de me comunicar de forma clara e sou apaixonado por desafios. Formado em Engenharia Mecânica com Pós-graduação em Engenharia de Produção ambos pela PUC- Minas, atuei por muitos anos na engenharia principalmente em empresas voltadas para a área de construção e logística.
 
 - Contate-me por:
   - email: ruyfbm.dev@gmail.com  
